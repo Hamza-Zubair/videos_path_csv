@@ -20,7 +20,6 @@
 6. Output CSV will be generated in the script folder
 
 
-  ps: FOR
-
+  ps:
   Anaconda terminal: jupyter lab --notebook-dir DIR_NAME:
   CMD: python -m jupyterlab --notebook-dir DIR_NAME: 
